@@ -10,14 +10,14 @@ import TeamQuestions from "./components/TeamQuestions";
 import SoloDashboard from "./components/SoloDashboard";
 import TeamDashboard from "./components/TeamDashboard";
 import Notifications from "./components/Notifications";
-import UpdateSoloProfile from "./components/Updatesoloprofile";
-import UpdateTeamProfile from "./components/Updateteamprofile";
+import UpdateSoloProfile from "./components/UpdateSoloProfile";
+import UpdateTeamProfile from "./components/UpdateTeamProfile";
 import YourProjects from "./components/YourProjects";
 import MentorLogin from "./components/MentorLogin";
 import MentorRegister from "./components/MentorRegister";
 import MentorProfile from "./components/MentorProfile";
 import MentorDashboard from "./components/MentorDashboard";
-import UpdateMentorProfile from "./components/Updatementorprofile";
+import UpdateMentorProfile from "./components/UpdateMentorProfile";
 import MentorNotifications from "./components/MentorNotifications";
 
 export default function App() {
