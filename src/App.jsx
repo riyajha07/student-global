@@ -3,7 +3,7 @@ import Landing from "./components/Landing";
 import Login from "./components/Login";
 import Register from "./components/Register";
 import ProfileSetup from "./components/ProfileSetup";
-import CommonDashboard from "./components/CommonDashboard";
+import CommonDashboard from "./components/CommonDashboard
 import UpdateProfile from "./components/UpdateProfile";
 import SoloQuestions from "./components/Soloquestions";
 import TeamQuestions from "./components/Teamquestions";
