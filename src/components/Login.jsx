@@ -361,7 +361,7 @@ export default function Login() {
             No account? <Link to="/register">Register here</Link>
           </div>
              <div className="login-foot">
-            <Link to="/landing">Back to home</Link>
+            <Link to="/">Back to home</Link>
           </div>
         </div>
       </div>
